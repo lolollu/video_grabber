@@ -1,0 +1,1982 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html>
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Practice Questions Reading 25 Understanding Balance Sheets_2017年CFA一级系列课程： Financial Statement Analysis</title>
+<meta name="Keywords" content="CFA一级,CFA1级,CFA Level 1,CFA Level Ⅰ,CFA一级课程,CFA一级视频,CFA一级培训,CFA一级考试,CFA,CFA课程,CFA培训,CFA考试,CFA报名" />
+<meta name="Description" content="CFA一级课程，课程费用仅需240美元，由美国大学资深金融教授、博导领军，留美金融硕士、博士团队，留美金融机构从业师资，构建专业金融学院 Academy of Professional Finance（APF）全体团队研发、录制、发行。" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="author" content="ppclass.com">
+<!-- Mobile Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Favicon -->
+<link rel="shortcut icon" href="/static/default/images/favicon.ico">
+<!-- Bootstrap core CSS -->
+<link href="/static/default/bootstrap/css/bootstrap.css" rel="stylesheet">
+<!-- Font Awesome CSS -->
+<link href="/static/default/fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+<!-- Fontello CSS -->
+<link href="/static/default/fonts/fontello/css/fontello.css" rel="stylesheet">
+<!-- Plugins -->
+<link href="/static/default/plugins/rs-plugin/css/settings.css" media="screen" rel="stylesheet">
+<link href="/static/default/plugins/rs-plugin/css/extralayers.css" media="screen" rel="stylesheet">
+<link href="/static/default/plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
+<link href="/static/default/css/animations.css" rel="stylesheet">
+<link href="/static/default/plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="/static/default/plugins/jquery.countdown/jquery.countdown.css" rel="stylesheet">
+<!-- PPclass core CSS file -->
+<link href="/static/default/css/style.css" rel="stylesheet">
+<!-- Color css)-->
+<link href="/static/default/css/skins/skin.css" rel="stylesheet">
+<!-- Style Switcher Styles (Remove these two lines) 
+<link href="#" data-style="styles" rel="stylesheet">
+<link href="/static/default/css/switcher.css" rel="stylesheet">
+-->
+<!--Kindeditor4 start -->
+<script charset="utf-8" src="/static/mc/editor/kindeditor-min.js"></script>
+<script charset="utf-8" src="/static/mc/editor/lang/zh_CN.js"></script>
+<script>
+		KindEditor.ready(function(K) {
+            var editor = K.create('textarea[name="content"]', {
+				uploadJson: '/mc/file/ajaxUpload',
+                allowFileManager: false,
+                height: '80px',
+				width: '400px',
+				afterBlur: function () { this.sync(); },
+                items : [
+                'bold', 'italic', 'underline',
+                'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+                'insertunorderedlist', '|','link','emoticons','clearhtml','image'],	
+            });
+        });
+        KindEditor.ready(function(K) {
+            var editor = K.create('textarea[name="note"]', {
+                allowFileManager: false,
+                height: '80px',
+				width: '400px',
+				afterBlur: function () { this.sync(); },
+                items : [
+                'bold', 'italic', 'underline',
+                'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+                'insertunorderedlist', '|','link','emoticons','clearhtml'],	
+            });
+        });
+    </script>
+<!--Kindeditor4 end -->
+<link href="/static/videojs/video-js-5.18.4/video-js.min.css" rel="stylesheet">
+<script src="/static/videojs/video-js-5.18.4/video.min.js"></script>
+<style>
+	#videojs{
+		width: 100%;
+		height:420px;
+	}
+</style>
+</head>
+<body class="front">
+<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+<div class="page-wrapper"> <div style="display:none"> <a href="http://www.accaspace.com/sitemap.txt">ACCAspace_sitemap</a> <a href="http://www.ppclass.com/sitemap.txt">PPclass_sitemap</a> <a href="http://bbs.ppclass.com/sitemap_index.xml">sitemap_google</a> <a href="http://bbs.ppclass.com/sitemap_baidu.xml">sitemap_baidu</a> </div>
+<div class="header-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-2 col-sm-4">
+        <div class="header-top-first clearfix">
+          <ul class="social-links clearfix hidden-xs">
+            <li><a target="_blank" href="/app" title="移动客户端"><i class="fa fa-apple"></i></a></li>
+            <li><a target="_blank" href="/app" title="移动客户端"><i class="fa fa-android"></i></a></li>
+            <li><a target="_blank" href="/society/qqLogin" title="QQ登录"><i class="fa fa-qq"></i></a></li>
+            <li><a target="_blank" href="/contactus" title="CFAspace微信"><i class="fa fa-weixin"></i></a></li>
+          </ul>
+          <div class="social-links hidden-lg hidden-md hidden-sm">
+            <div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i></button>
+              <ul class="dropdown-menu dropdown-animation">
+                <li><a target="_blank" href="/app" title="移动客户端"><i class="fa fa-apple"></i></a></li>
+                <li><a target="_blank" href="/app" title="移动客户端"><i class="fa fa-android"></i></a></li>
+                <li><a target="_blank" href="/society/qqLogin" title="QQ登录"><i class="fa fa-qq"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-10 col-sm-8">
+        <div id="header-top-second"  class="clearfix">
+          <div class="header-top-dropdown"> 
+            <!--<div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle">
+              <a href="http://en.cfaspace.com/" target="_blank"><i class="fa fa-language"></i> English</a>
+              </button>
+            </div>-->
+            <div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i> 搜索</button>
+              <ul class="dropdown-menu dropdown-menu-right dropdown-animation">
+                <li>
+                  <form role="search" class="search-box" action="/search" method="get">
+                    <div class="form-group has-feedback">
+                      <input name="key" type="text" class="form-control" placeholder="Search">
+                      <i class="fa fa-search form-control-feedback"></i> </div>
+                  </form>
+                </li>
+              </ul>
+            </div>
+            
+            <div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle">
+              <a href="/mc/home"> <i class="fa fa-windows"></i> 学习中心 </a>
+              </button>
+            </div>
+            <div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle">
+              <a href="/mc/message/inbox"> <i class="fa fa-bell"></i>消息<span class="top-count">
+              0
+              </span> </a>
+              </button>
+            </div>
+            <div class="btn-group dropdown">
+              <button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i>
+              lolollu
+              <i class="icon-down-open"></i></button>
+              <ul class="dropdown-menu dropdown-menu-right dropdown-animation">
+                <ul class="nav nav-stacked">
+                  <li> <a href="/mc/home"> <i class="icon-home"></i> 我的学习 Learning </a> </li>
+                  <li> <a href="/mc/noteLesson/list"> <i class="icon-docs"></i> 学习笔记 Notes </a> </li>
+                  <li> <a href="/mc/comment/list"> <i class="icon-comment"></i> 评论问答 Comment </a> </li>
+                  <li> <a href="/mc/order/list/buy"> <i class="icon-basket"></i> 我的订单 Order </a> </li>
+                  <li> <a href="/mc/vip"> <i class="icon-user"></i> 我的会员 Member </a> </li>
+                </ul>
+                <div class="divider"></div>
+                <ul class="nav nav-stacked">
+                  <li> <a href="/mc/settings"> <i class="icon-cog"></i> 设置 Profile </a> </li>
+                  <li> <a href="/logout"> <i class="icon-logout"></i> 退出 Logout </a> </li>
+                </ul>
+              </ul>
+            </div>
+             </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<header class="header fixed clearfix">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+  <div class="header-left clearfix">
+    <div class="logo"> <a href="/" title="中国CFA金融教育平台"> <img id="logo" src="/static/default/images/logo.png" alt="CFAspace"> </a> </div>
+    <div class="site-slogan"> Professional Finance Education </div>
+  </div>
+</div>
+<div class="col-md-9">
+<div class="header-right clearfix">
+<div class="main-navigation animated">
+<nav class="navbar navbar-default" role="navigation">
+<div class="container-fluid">
+<div class="navbar-header">
+  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+</div>
+<div class="collapse navbar-collapse" id="navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown active"> <a href="/" class="dropdown-toggle" data-toggle="dropdown"> 首页 </a>
+  <ul class="dropdown-menu">
+    <li class="active"> <a href="/allCourse">全部课程</a> </li>
+    <li> <a href="/teacher">CFA名师</a></li>
+    <li> <a href="/article">信息资讯</a></li>
+    <li> <a href="/special">专题报道</a></li>
+    <li> <a href="/special/CFA">CFA专题</a></li>
+    <li> <a href="/dict/index">CFA词典</a></li>
+  </ul>
+</li>
+<li class="dropdown mega-menu">
+<a href="/course/CFA" class="dropdown-toggle" data-toggle="dropdown">CFA课程</a>
+<ul class="dropdown-menu">
+<li>
+<div class="row">
+<div class="col-lg-12 col-md-12">
+<h4>CFA系列课程</h4>
+<div class="row">
+<div class="col-sm-3">
+  <div class="divider"></div>
+  <ul class="menu">
+    <H3> <a href="/course/CFA1"> 2017 CFA一级系列课程 </a> </H3>
+    <li> <a href="/course/detail/ea3a9cb3560f5dd101569137de7506ba"> <i class="icon-right-open"></i>Ethics and Professional Standards </a> </li>
+    <li> <a href="/course/detail/ff8080815260bbb2015265469e640046"> <i class="icon-right-open"></i>Quantitative Methods </a> </li>
+    <li> <a href="/course/detail/ff8080815260bbb20152654370970045"> <i class="icon-right-open"></i>Economics </a> </li>
+    <li> <a href="/course/detail/ea3a92dd409c51ff0140d7888abe1ac1"> <i class="icon-right-open"></i>Financial Reporting & Analysis </a> </li>
+    <li> <a href="/course/detail/ea3af1b44b138f09014b14980a63002b"> <i class="icon-right-open"></i>Corporate Finance </a> </li>
+    <li> <a href="/course/detail/ea3a92dd414db3160141539acad90582"> <i class="icon-right-open"></i>Portfolio Management </a> </li>
+    <li> <a href="/course/detail/ea3a92dd405e6fd10140859648520f40"> <i class="icon-right-open"></i>Equity</a> </li>
+    <li> <a href="/course/detail/ea3af1b442da9d300142dbaa157202f6"> <i class="icon-right-open"></i>Fixed Income Investments </a> </li>
+    <li> <a href="/course/detail/ea3a92dd405e6fd101408f0c532112ae"> <i class="icon-right-open"></i>Derivatives </a> </li>
+    <li> <a href="/course/detail/ea3a92dd414db316014153a321560583"> <i class="icon-right-open"></i>Alternative Investments </a> </li>
+    <li> <a href="/course/detail/ea3a9cb35b9837c7015b9f537be10183"> <i class="icon-right-open"></i>2017CFA一级考试：模考预测题 </a> </li>
+    <li> <a href="/course/detail/ea388664508c500e01508cf593fe0010"> <i class="icon-right-open"></i>2016CFA一级考试：模考预测题 </a> </li>
+  </ul>
+</div>
+<div class="col-sm-3">
+  <div class="divider"></div>
+  <ul class="menu">
+    <H3> <a href="/course/CFA2"> 2017 CFA二级系列课程 </a> </H3>
+    <li> <a href="/course/detail/ea3a9cb357003ec901570c77f68600b0"> <i class="icon-right-open"></i>Ethics and Professional Standards </a> </li>
+    <li> <a href="/course/detail/ea3886644f85ac49014f87d76b660037"> <i class="icon-right-open"></i>Quantitative Methods </a> </li>
+    <li> <a href="/course/detail/ea3af1b44f5752db014f58bc7016001b"> <i class="icon-right-open"></i>Economics </a> </li>
+    <li> <a href="/course/detail/ea3af1b4434e999c014366614eca0b1a"> <i class="icon-right-open"></i>Financial Reporting & Analysis </a> </li>
+    <li> <a href="/course/detail/ea3af1b44c40657a014c40a53d0f0025"> <i class="icon-right-open"></i>Corporate Finance </a> </li>
+    <li> <a href="/course/detail/ea3a9cb35794c3af0157dcc2946207b8"> <i class="icon-right-open"></i>Equity Valuation </a> </li>
+    <li> <a href="/course/detail/ea3af1b442d73ae00142d800024f0109"> <i class="icon-right-open"></i>Fixed Income Investments </a> </li>
+    <li> <a href="/course/detail/ea3af1b442d73ae00142d81110b9011d"> <i class="icon-right-open"></i>Derivatives </a> </li>
+    <li> <a href="/course/detail/ea3af1b442d73ae00142d8502ecb0138"> <i class="icon-right-open"></i>Alternative Investments </a> </li>
+    <li> <a href="/course/detail/ea3af1b442d73ae00142d80900df010f"> <i class="icon-right-open"></i>Portfolio Management </a> </li>
+    <li> <a href="/course/detail/ea3a9cb35b9837c7015b9f5aa6a30190"> <i class="icon-right-open"></i>2017CFA二级考试：模考预测题 </a> </li>
+    
+  </ul>
+</div>
+<div class="col-sm-6">
+<div class="divider"></div>
+<ul class="menu">
+  <H3> <a href="/course/CFA3"> 2017 CFA三级系列课程 </a> </H3>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5ee8351d00db"> <i class="icon-right-open"></i>Behavioral Finance </a> </li>
+  <li> <a href="/course/detail/ea3af1b44bf62ffe014bf72d25800034"> <i class="icon-right-open"></i>Risk Management </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5edead8300d9"> <i class="icon-right-open"></i>Private Wealth Management </a> </li>
+  <li> <a href="/course/detail/ea3af1b44c972469014c974b2569001a"> <i class="icon-right-open"></i>( GIPS ) Overview of the Global Investment Performance Standards </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5ef49b9e00e2"> <i class="icon-right-open"></i>Institutional Capital Management </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5efb168c00e6"> <i class="icon-right-open"></i>Applications of Economic Analysis to Portfolio Management </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5efe2c5200ea"> <i class="icon-right-open"></i>Asset Allocation, Trading, Monitoring, and Rebalancing</a> </li>
+  <li> <a href="/course/detail/ea3af1b44c972469014c9762df82002c"> <i class="icon-right-open"></i>Portfolio Performance Evaluation </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5ef8387100e4"> <i class="icon-right-open"></i>Fixed Income Investment </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5effd8b900ec"> <i class="icon-right-open"></i>Equity Portfolio Management </a> </li>
+  <li> <a href="/course/detail/ea3af1b44b5ba95a014b5effd8b900ec"> <i class="icon-right-open"></i>Equity and Alternative Investments for Portfolio Management </a> </li>
+  </div>
+  </div>
+  </div>
+  </div>
+  </li>
+</ul>
+</li>
+
+<li class="dropdown mega-menu">
+<a href="/vip" class="dropdown-toggle" data-toggle="dropdown">会员特权</a>
+<ul class="dropdown-menu">
+<li>
+<div class="row">
+<div class="col-md-3">
+  <h4>会员特权服务</h4>
+  <div class="divider"></div>
+  <p>学习更全面 | 价格更优惠<br>
+    购买更便捷 | Fail 可延期</p>
+  <a href="/vip" class="link">了解更多</a> </div>
+<div class="col-md-9">
+<div class="row">
+<div class="col-sm-4">
+<h4>CFA一级会员</h4>
+<div class="divider"></div>
+<ul class="menu">
+  <li><small> 可学习2017年CFA一级全部课程<br>
+    会员价：$240.00<br>
+    <del>原价：$300.00</del><br>
+    <a href="/vipCourse/ea3af1b446b0e4ab0146b14d2890002a" class="link">查看 CFA一级会员 全部课程</a><br>
+    <a href="/vip" class="btn btn-white btn-sm">申请 CFA一级会员</a> </small> </li>
+  <ul>
+    </div>
+    <div class="col-sm-4">
+      <h4>CFA二级会员</h4>
+      <div class="divider"></div>
+      <ul class="menu">
+        <li><small> 可学习2017年CFA二级全部课程<br>
+          会员价：$299.00<br>
+          <del>原价：$370.00</del><br>
+          <a href="/vipCourse/ea3af1b446b0e4ab0146b14e24ea002b" class="link">查看 CFA二级会员 全部课程</a><br>
+          <a href="/vip" class="btn btn-white btn-sm">申请 CFA二级会员</a> </small> </li>
+      </ul>
+    </div>
+    <div class="col-sm-4">
+      <h4>CFA三级会员</h4>
+      <div class="divider"></div>
+      <ul class="menu">
+        <li><small> 可学习2017年CFA三级全部课程<br>
+          会员价：$399.00<br>
+          <del>原价：$710.00</del><br>
+          <a href="/vipCourse/ff8080815420c50a015422e2c576004e" class="link">查看 CFA三级会员 全部课程</a><br>
+          <a href="/vip" class="btn btn-white btn-sm">申请 CFA三级会员</a> </small> </li>
+      </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    </li>
+  </ul>
+  </li>
+  <!-- menu end -->
+  <li class="dropdown"> <a href="http://www.ppclass.com/" target="_blank" class="dropdown-toggle" data-toggle="dropdown">其他课程</a>
+    <ul class="dropdown-menu">
+      <li class="active"> <a href="http://www.ppclass.com/course/FRM" target="_blank"> <i class="icon-right-open"></i>FRM课程 </a> </li>
+      <li> <a href="http://www.ppclass.com/course/PRM" target="_blank"> <i class="icon-right-open"></i>PRM课程 <span class="default-bg badge">Free</span></a></li>
+      <li> <a href="http://www.ppclass.com/course/ACCA" target="_blank"> <i class="icon-right-open"></i>ACCA课程 <span class="default-bg badge">Free</span></a> </li>
+      <li> <a href="http://www.ppclass.com/course/CMA" target="_blank"> <i class="icon-right-open"></i>CMA课程 <span class="default-bg badge">Free</span></a> </li>
+      <li> <a href="http://www.ppclass.com/course/CPA" target="_blank"> <i class="icon-right-open"></i>CPA课程 <span class="default-bg badge">Free</span></a> </li>
+      <li> <a href="http://ppclass.com/course/congyezige" target="_blank"> <i class="icon-right-open"></i>从业资格 <span class="default-bg badge">Free</span></a> </li>
+    </ul>
+  </li>
+  <li class="dropdown"> <a href="/course/other" class="dropdown-toggle" data-toggle="dropdown">公开课</a>
+  <ul class="dropdown-menu">
+    <li> <a href="/course/Professional_Finance"> <i class="icon-right-open"></i>专业金融 </a> </li>
+    <li> <a href="/course/EF"> <i class="icon-right-open"></i>经济金融 </a> </li>
+    <li> <a href="/course/Investment"> <i class="icon-right-open"></i>投资理财 </a> </li>
+    <li> <a href="/course/count"> <i class="icon-right-open"></i>统计分析 </a> </li>
+  </ul>
+</li>
+  <li class="dropdown"> <a href="/dict/index" class="dropdown-toggle" data-toggle="dropdown">CFA词典</a>
+    <ul class="dropdown-menu">
+      <li><a href="/dict/index" target="_blank">CFA词典</a></li>
+    </ul>
+  </li>
+  <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">CFA论坛</a>
+    <ul class="dropdown-menu">
+      <li><a href="http://bbs.cfaspace.com/" target="_blank">CFA论坛</a></li>
+    </ul>
+  </li>
+  <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">职业梦</a>
+    <ul class="dropdown-menu">
+      <li><a href="http://job.ppclass.com/" target="_blank">职业梦</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+  <div class="page-intro">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ol class="breadcrumb">
+            <li><i class="fa fa-home pr-10"></i><a href="/">首页</a></li>
+            <li><a href="/course/CFA1">
+              CFA一级
+              </a></li>
+            <li class="active"><a href="/course/detail/ea3a92dd409c51ff0140d7888abe1ac1" style="font-size:16px;color:#333">
+              2017年CFA一级系列课程： Financial Statement Analysis
+              </a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section class="main-container" style="background:#272728">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h3 class="heading-title pull-left" style="margin-top: 0px;color:#fff;">
+          Practice Questions Reading 25 Understanding Balance Sheets
+           <span class="label label-warning">收费</span>  </span> </h3>
+        <div id="bdshare" class="bdshare_b pull-right">
+<button class="btn btn-light-gray btn-sm pull-right" style="margin-top:-5px;"><i class="fa fa-share-alt"></i> 分享给好友</button>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=button&amp;uid=744396" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script></div>
+    </div>
+    <div class="row"> 
+      <!-- main start -->
+      <div class="main col-md-8" id="playerLeft"> 
+        <div class="embed-responsive embed-responsive-16by9" style="min-height:420px;"> 
+          <!-- 播放器 --> 
+          <video id="videojs" class="video-js vjs-default-skin" controls poster="/static/default/images/loading.gif" preload="auto" data-setup='{ "playbackRates": [0.5,1,1.25,1.5,1.75,2] }'>
+			<source src="/upload/ea3a92dd409c51ff0140d78067a41ab1/201410/L1R26.mp4" type='video/mp4'>
+		  </video>
+          <!-- 播放器END --> 
+        </div>
+        <div class="video-bottom clearfix"> <span class="pull-left">
+          <div class="video-dropdown">
+            <div class="btn-group dropdown"> <a href="#" class="btn btn-white btn-sm" data-toggle="dropdown"> </i> <i class="fa fa-file-text-o pr-10"></i> 写笔记 </a>
+              <ul class="dropdown-menu">
+                <form>
+                  <h3>记笔记</h3>
+                  <div class="form-group has-feedback">
+                    <textarea id="noteTextarea" name="note">
+</textarea>
+<input type="checkbox" name="isPublic" value="true" id="isPublic" /><input type="hidden" id="__checkbox_isPublic" name="__checkbox_isPublic" value="true" />                    公开 <span id="noteSaveTip"></span> <a href="javascript:" id="saveNoteBtn" class="btn btn-primary btn-sm pull-right"> 保存 <i class="fa fa-floppy-o pl-10"></i> </a> </div>
+                </form>
+              </ul>
+            </div>
+            <div class="btn-group dropdown"> <a href="#" class="btn btn-white btn-sm" data-toggle="dropdown"> <i class="fa fa-question-circle pr-10"></i> 有疑问 </a>
+              <ul class="dropdown-menu">
+                <form>
+                  <div class="form-group has-feedback">
+                    <h3>提问|评论</h3>
+                    <textarea id="commentTextarea" name="content"></textarea>
+                    <span id="commentSaveTip"></span> <a id="saveCommentBtn" href="javascript:" class="btn btn-warning btn-sm pull-right"> 提交<i class="fa fa-check pl-10"></i> </a> </div>
+                </form>
+              </ul>
+            </div>
+          </div>
+          </span> <span class="pull-right"> 
+           <a href="/exam/ea3af1b448ec861e0148ee3c5e87005b.doc" class="btn btn-white btn-sm"> <i class="icon-download-alt icon-white"></i> 习题下载 </a> 
+           <a href="/mc/planCourse/finishDelete/ea3af1b448ec861e0148ee3c5e87005b" class="btn btn-white btn-sm"> <i class="icon-play-circle"></i> 再学一次，继续下一课 </a>  </span>  </div>
+        </div>
+        <!-- main end --> 
+        
+        <!-- sidebar start -->
+        <aside class="col-md-4" id="playerRight">
+          <div class="sidebar">
+            <div class="video_tab_menu"><span>课时列表</span>（<em>
+              89
+              </em>） </div>
+            <div class="video_tab_cont videoTab on">
+              <div class="list_video video_scroll-bar" style="width: 100%;min-height:370px;"> 
+                <li style="font-size:14px;color:#FFF;margin: 10px 0 15px;">
+                  STUDY SESSION 6 Financial Reporting and Analysis : An Introduction
+                </li>
+                <li class=""> <a href="/course/lesson/ea3a9cb354dc5b7601550eef0d6407b0" title="Reading 21 Financial Statement Analysis: An Introduction">
+                  1
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 21 Financial Statement Analysis: An Introduction
+                    </strong> <span>
+                    26:14
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44779bd0e01477b64449c008a" title="Practice Questions Reading 21 FSA: An Introduction">
+                  2
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 21 FSA: An Introduction
+                    </strong> <span>
+                    24:21
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a9cb355e01b03015600c3bbdb0141" title="Reading 22 Financial Reporting Mechanics Part I">
+                  3
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 22 Financial Reporting Mechanics Part I
+                    </strong> <span>
+                    24:40
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a9cb354dc5b760155112eb9a50806" title="Reading 22 Financial Reporting Mechanics Part II">
+                  4
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 22 Financial Reporting Mechanics Part II
+                    </strong> <span>
+                    16:11
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b447eb08500147ed552d6000ef" title="Practice Questions Reading 22 Financial Reporting Mechanics">
+                  5
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 22 Financial Reporting Mechanics
+                    </strong> <span>
+                    21:20
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff01414130e1a25190" title="Reading 23 Financial Reporting Standards Part I">
+                  6
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 23 Financial Reporting Standards Part I
+                    </strong> <span>
+                    17:27
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff0141431e153a5209" title="Reading 23 Financial Reporting Standards Part II">
+                  7
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 23 Financial Reporting Standards Part II
+                    </strong> <span>
+                    26:19
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff014143f583625281" title="Reading 23 Financial Reporting Standards Part III">
+                  8
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 23 Financial Reporting Standards Part III
+                    </strong> <span>
+                    20:40
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448143b68014815e02d54009f" title="Practice Questions Reading 23 Financial Reporting Standards">
+                  9
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 23 Financial Reporting Standards
+                    </strong> <span>
+                    15:46
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                
+                <li style="font-size:14px;color:#FFF;margin: 10px 0 15px;">
+                  STUDY SESSION 7 Financial Reporting and Analysis Income Statements, Balance Sheets, and Cash Flow Statements
+                </li>
+                <li class=""> <a href="/course/lesson/ff80808153b9c5ce0153bbba10f00038" title="Reading 24 Understanding Income Statements Part I">
+                  1
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 24 Understanding Income Statements Part I
+                    </strong> <span>
+                    36:18
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808153b9c5ce0153bbc4758a0039" title="Reading 24 Understanding Income Statements Part II">
+                  2
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 24 Understanding Income Statements Part II
+                    </strong> <span>
+                    35:38
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808153c938e60153ccd4596d006b" title="Reading 24 Understanding Income Statements Part III">
+                  3
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 24 Understanding Income Statements Part III
+                    </strong> <span>
+                    38:24
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448c87a1e0148ca39b6ea0042" title="Practice Questions Reading 24 Understanding Income Statements Part I">
+                  4
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 24 Understanding Income Statements Part I
+                    </strong> <span>
+                    17:35
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448c87a1e0148ca5445ba0049" title="Practice Questions Reading 24 Understanding Income Statements Part II">
+                  5
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 24 Understanding Income Statements Part II
+                    </strong> <span>
+                    15:25
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448cda01d0148cee049240055" title="Practice Questions Reading 24 Understanding Income Statements Part III">
+                  6
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 24 Understanding Income Statements Part III
+                    </strong> <span>
+                    12:09
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808153ddd2550153df88f8df003e" title="Reading 25 Understanding Income Statements Part I">
+                  7
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part I
+                    </strong> <span>
+                    14:35
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808153ddd2550153df9037610040" title="Reading 25 Understanding Income Statements Part II">
+                  8
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part II
+                    </strong> <span>
+                    24:16
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808153fcb8820153fe29d8350042" title="Reading 25 Understanding Income Statements Part III">
+                  9
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part III
+                    </strong> <span>
+                    26:14
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class="on"> <a href="/course/lesson/ea3af1b448ec861e0148ee3c5e87005b" title="Practice Questions Reading 25 Understanding Balance Sheets">
+                  10
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 25 Understanding Balance Sheets
+                    </strong> <span>
+                    20:03
+                    </span> <span> 
+                    正在学
+ </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff8080815444d189015446a2beda003b" title="Reading 26 Understanding Cash Flow Statements Part I">
+                  11
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Cash Flow Statements Part I
+                    </strong> <span>
+                    18:29
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff8080815454449b015456681603003e" title="Reading 26 Understanding Cash Flow Statements Part II">
+                  12
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Cash Flow Statements Part II
+                    </strong> <span>
+                    28:54
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff8080815454449b01545674d5730043" title="Reading 26 Understanding Cash Flow Statements Part III">
+                  13
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Cash Flow Statements Part III
+                    </strong> <span>
+                    22:58
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448f6d3880148f89fcdb2008d" title="Practice Questions Reading 26 Understanding Cash Flow Statements Part I">
+                  14
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 26 Understanding Cash Flow Statements Part I
+                    </strong> <span>
+                    13:19
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448fbf9090148fdcb753a0084" title="Practice Questions Reading 26 Understanding Cash Flow Statements Part II">
+                  15
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 26 Understanding Cash Flow Statements Part II
+                    </strong> <span>
+                    22:30
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808154764dab015476ac7b4e001a" title="Reading 27 Financial Analysis Techniques Part I">
+                  16
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Financial Analysis Techniques Part I
+                    </strong> <span>
+                    14:52
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081547d778a01547f1ca2df0041" title="Reading 27 Financial Analysis Techniques Part II">
+                  17
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Financial Analysis Techniques Part II
+                    </strong> <span>
+                    20:59
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081547d778a01547f2524b10046" title="Reading 27 Financial Analysis Techniques Part III">
+                  18
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Financial Analysis Techniques Part III
+                    </strong> <span>
+                    13:23
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4494e5f2201494f96dc9c0068" title="Practice Questions Reading 27 Financial Analysis Techniques">
+                  19
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 27 Financial Analysis Techniques
+                    </strong> <span>
+                    22:05
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                
+                <li style="font-size:14px;color:#FFF;margin: 10px 0 15px;">
+                  STUDY SESSION 8 Financial Reporting and Analysis Inventories, Long-lived Assets, Income Taxes, and Non-current Liabilities
+                </li>
+                <li class=""> <a href="/course/lesson/ff808081529961ac01529a0ae1910009" title="Reading 28 Inventories Part I">
+                  1
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Inventories Part I
+                    </strong> <span>
+                    23:46
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081529961ac01529a171426000a" title="Reading 28 Inventories Part II">
+                  2
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Inventories Part II
+                    </strong> <span>
+                    17:37
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081529961ac01529b18bcae001f" title="Reading 28 Inventories Part III">
+                  3
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Inventories Part III
+                    </strong> <span>
+                    27:03
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff8080815371acd00153735d0bb70021" title="Practice Questions Reading 28: Inventory">
+                  4
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 28: Inventory
+                    </strong> <span>
+                    26:39
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808152e17abf0152e1d75e3b0002" title="Reading 29 Long-lived Assets Part I">
+                  5
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Long-lived Assets Part I
+                    </strong> <span>
+                    35:44
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808152e2d3a00152e312dc16000a" title="Reading 29 Long-lived Assets Part II">
+                  6
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Long-lived Assets Part II
+                    </strong> <span>
+                    24:02
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff80808152e2d3a00152e31b1846000b" title="Reading 29 Long-lived Assets Part III">
+                  7
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Long-lived Assets Part III
+                    </strong> <span>
+                    37:43
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b447e5e2ae0147e6285d6d000e" title="Practice Questions Reading 29 FSA Long-lived Assets I">
+                  8
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 29 FSA Long-lived Assets I
+                    </strong> <span>
+                    16:00
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b447e5e2ae0147e629cb92000f" title="Practice Questions Reading 29 FSA Long-lived Assets II">
+                  9
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 29 FSA Long-lived Assets II
+                    </strong> <span>
+                    10:29
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081532993cf01532b6a3fd20034" title="Reading 30 Income Taxes Part I">
+                  10
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Income Taxes Part I
+                    </strong> <span>
+                    23:44
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081532993cf01532b6ffebc0035" title="Reading 30 Income Taxes Part II">
+                  11
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Income Taxes Part II
+                    </strong> <span>
+                    18:27
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ff808081532993cf01532b75747c003b" title="Reading 30 Income Taxes Part III">
+                  12
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Income Taxes Part III
+                    </strong> <span>
+                    18:37
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448073ce2014809e6d52000b2" title="Practice Questions Reading 30 FSA Incom Taxes I">
+                  13
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 30 FSA Incom Taxes I
+                    </strong> <span>
+                    14:13
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b448073ce2014809e8b43900b3" title="Practice Questions Reading 30 FSA Income Taxes II">
+                  14
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 30 FSA Income Taxes II
+                    </strong> <span>
+                    13:42
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143daf237b90cb9" title="Reading 31 Non-Current (Long-Term) Liabilities Part I  (周教授主讲)">
+                  15
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part I  (周教授主讲)
+                    </strong> <span>
+                    26:05
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143de7711eb0fbc" title="Reading 31 Non-Current (Long-Term) Liabilities Part II">
+                  16
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part II
+                    </strong> <span>
+                    13:45
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143e0c1cd0c111e" title="Reading 31 Non-Current (Long-Term) Liabilities Part III">
+                  17
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part III
+                    </strong> <span>
+                    11:56
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143e3e0055f12b6" title="Reading 31 Non-Current (Long-Term) Liabilities Part IV">
+                  18
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part IV
+                    </strong> <span>
+                    17:49
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143e46a62e212ea" title="Reading 31 Non-Current (Long-Term) Liabilities Part V">
+                  19
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part V
+                    </strong> <span>
+                    21:24
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b443c6c2420143e4ca668312f3" title="Reading 31 Non-Current (Long-Term) Liabilities Part VI">
+                  20
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Non-Current (Long-Term) Liabilities Part VI
+                    </strong> <span>
+                    27:19
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4482dfb8801482eb855890013" title="Practice Questions Reading 31 Non-current liabilities I">
+                  21
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 31 Non-current liabilities I
+                    </strong> <span>
+                    20:52
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4482dfb8801482eba620d0014" title="Practice Questions Reading 31 Non-current liabilities II">
+                  22
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 31 Non-current liabilities II
+                    </strong> <span>
+                    18:13
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                
+                <li style="font-size:14px;color:#FFF;margin: 10px 0 15px;">
+                  STUDY SESSION 9 Financial Reporting and Analysis  Financial Reporting Quality and Financial Statement Analysis
+                </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44b041caa014b057c4f080064" title="Reading 32 Financial Reporting Quality_Part I">
+                  1
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 32 Financial Reporting Quality_Part I
+                    </strong> <span>
+                    16:36
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44b2301fe014b23d3a9640025" title="Reading 32 Financial Reporting Quality_Part II">
+                  2
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 32 Financial Reporting Quality_Part II
+                    </strong> <span>
+                    14:45
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44b2301fe014b23d5a5d7002c" title="Reading 32 Financial Reporting Quality_Part III">
+                  3
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 32 Financial Reporting Quality_Part III
+                    </strong> <span>
+                    17:30
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4485207de01485226b8160006" title="Practice Questions Reading 32 Financial Reporting Quality">
+                  4
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 32 Financial Reporting Quality
+                    </strong> <span>
+                    21:45
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44ca01805014ca092bc840018" title="Reading 33 Financial Statement Analysis Application">
+                  5
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 33 Financial Statement Analysis Application
+                    </strong> <span>
+                    21:49
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44894fad301489a1ba98401c8" title="Practice Questions Reading 33 Financial Statement Analysis Application PartI">
+                  6
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 33 Financial Statement Analysis Application PartI
+                    </strong> <span>
+                    15:10
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b44894fad301489a1d395601cb" title="Practice Questions Reading 33 Financial Statement Analysis Application PartII">
+                  7
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 33 Financial Statement Analysis Application PartII
+                    </strong> <span>
+                    16:06
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                
+                <li style="font-size:14px;color:#FFF;margin: 10px 0 15px;">
+                  鹿老师旧版课程 ( 选修 )
+                </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff0140d78e860d1ac7" title="Reading 22 FSA: An Introduction Part I">
+                  1
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 22 FSA: An Introduction Part I
+                    </strong> <span>
+                    22:17
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff0140e12cd4141e20" title="Reading 22 FSA: An Introduction Part II">
+                  2
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 22 FSA: An Introduction Part II
+                    </strong> <span>
+                    24:19
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff01410764a3a833bb" title="Reading 23 Financial Reporting Mechanics Part I">
+                  3
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 23 Financial Reporting Mechanics Part I
+                    </strong> <span>
+                    21:54
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd409c51ff014114f3ba443aac" title="Reading 23 Financial Reporting Mechanics Part II">
+                  4
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 23 Financial Reporting Mechanics Part II
+                    </strong> <span>
+                    21:27
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd417165910141970770da124e" title="Reading 25 Understanding Income Statements Part I">
+                  5
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part I
+                    </strong> <span>
+                    41:19
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd417165910141aaeaf6e81cbe" title="Reading 25 Understanding Income Statements Part II">
+                  6
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part II
+                    </strong> <span>
+                    26:44
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e0141b9b92a88093a" title="Reading 25 Understanding Income Statements Part III">
+                  7
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part III
+                    </strong> <span>
+                    16:11
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e0141bb388db80a3c" title="Reading 25 Understanding Income Statements Part IV">
+                  8
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part IV
+                    </strong> <span>
+                    31:14
+                    </span> <span>                     <i class="fa fa-check"></i>已学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e0141bf9b51e90c67" title="Reading 25 Understanding Income Statements Part V">
+                  9
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 25 Understanding Income Statements Part V
+                    </strong> <span>
+                    13:56
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e0141c455d05b0ef4" title="Reading 26 Understanding Balance Sheets Part I">
+                  10
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Balance Sheets Part I
+                    </strong> <span>
+                    11:02
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e01420229aafb36ad" title="Reading 26 Understanding Balance Sheets Part II">
+                  11
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Balance Sheets Part II
+                    </strong> <span>
+                    36:47
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e01420299cb9d36ea" title="Reading 26 Understanding Balance Sheets Part III">
+                  12
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 26 Understanding Balance Sheets Part III
+                    </strong> <span>
+                    20:36
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e014207dd36133a46" title="Reading 27 Understanding Cash Flow Statements Part I">
+                  13
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Understanding Cash Flow Statements Part I
+                    </strong> <span>
+                    22:50
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e01420dc2b6033f4b" title="Reading 27 Understanding Cash Flow Statements Part II">
+                  14
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Understanding Cash Flow Statements Part II
+                    </strong> <span>
+                    23:36
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e014216c20cd44493" title="Reading 27 Understanding Cash Flow Statements Part III">
+                  15
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Understanding Cash Flow Statements Part III
+                    </strong> <span>
+                    20:36
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e0142172529c144f6" title="Reading 27 Understanding Cash Flow Statements Part IV">
+                  16
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 27 Understanding Cash Flow Statements Part IV
+                    </strong> <span>
+                    15:24
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e01422178ac324c56" title="Reading 28 Financial Analysis Techniques Part I">
+                  17
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Financial Analysis Techniques Part I
+                    </strong> <span>
+                    36:42
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e01422187b8434c58" title="Reading 28 Financial Analysis Techniques Part II">
+                  18
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Financial Analysis Techniques Part II
+                    </strong> <span>
+                    13:54
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3a92dd41ab729e014221db582a4cad" title="Reading 28 Financial Analysis Techniques Part III">
+                  19
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 28 Financial Analysis Techniques Part III
+                    </strong> <span>
+                    17:25
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b447b262690147b3c1bc4a0067" title="Practice Questions Reading 29 FSA Inventory I">
+                  20
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 29 FSA Inventory I
+                    </strong> <span>
+                    18:26
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b447c1d54b0147c4ab062600aa" title="Practice Questions Reading 29 FSA Inventory II">
+                  21
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Practice Questions Reading 29 FSA Inventory II
+                    </strong> <span>
+                    23:44
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e01423d5d3c9204c7" title="Reading 29 Inventories Part I">
+                  22
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Inventories Part I
+                    </strong> <span>
+                    18:36
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e0142446e8cdf0888" title="Reading 29 Inventories Part II">
+                  23
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Inventories Part II
+                    </strong> <span>
+                    21:19
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e0142446f6c710889" title="Reading 29 Inventories Part III">
+                  24
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 29 Inventories Part III
+                    </strong> <span>
+                    13:54
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e014253e0169c12f4" title="Reading 30 Long-lived Assets Part I">
+                  25
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Long-lived Assets Part I
+                    </strong> <span>
+                    17:02
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e014253e1404312f5" title="Reading 30 Long-lived Assets Part II">
+                  26
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Long-lived Assets Part II
+                    </strong> <span>
+                    26:37
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e014263fee43b1b80" title="Reading 30 Long-lived Assets Part III">
+                  27
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Long-lived Assets Part III
+                    </strong> <span>
+                    18:06
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b442353e1e014263ffdc1b1b83" title="Reading 30 Long-lived Assets Part IV">
+                  28
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 30 Long-lived Assets Part IV
+                    </strong> <span>
+                    14:50
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4429ca4960142b6964688116f" title="Reading 31 Income Taxes International Financial Statement Analysis Part I">
+                  29
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Income Taxes International Financial Statement Analysis Part I
+                    </strong> <span>
+                    23:22
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4429ca4960142b696d0cf1170" title="Reading 31 Income Taxes International Financial Statement Analysis Part II">
+                  30
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Income Taxes International Financial Statement Analysis Part II
+                    </strong> <span>
+                    15:32
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4429ca4960142b7a12e0f1255" title="Reading 31 Income Taxes International Financial Statement Analysis Part III">
+                  31
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Income Taxes International Financial Statement Analysis Part III
+                    </strong> <span>
+                    20:37
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                <li class=""> <a href="/course/lesson/ea3af1b4429ca4960142bc05da6a151d" title="Reading 31 Income Taxes International Financial Statement Analysis Part IV">
+                  32
+                  .
+                  <div class="video_title video_r"><strong>  <i class="fa fa-play-circle"></i> 
+                    Reading 31 Income Taxes International Financial Statement Analysis Part IV
+                    </strong> <span>
+                    15:51
+                    </span> <span>                     未学
+                     </span></div>
+                  </a> </li>
+                 </div>
+            </div>
+          </div>
+        </aside>
+        <!-- sidebar end --> 
+        
+      </div>
+    </div>
+  </section>
+  <div class="space-bottom"></div>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="main col-md-8">
+          <div class="sidebar">
+          
+            <div class="tabs-style-2">
+              <ul class="nav nav-tabs" role="tablist">
+                <li class="active"> <a href="#h2tab3" role="tab" data-toggle="tab"> <i class="fa fa-comments pr-5"></i>本课时问答评论 </a> </li>
+              </ul>
+              <div class="tab-content padding-top-clear padding-bottom-clear">
+                <div class="tab-pane fade active in" id="h2tab3">
+                  <div id="commentHtml"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <aside class="col-md-4">
+          <div class="sidebar">
+          <div class="portfolio-item side vertical-divider-left">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="block clearfix">
+                  <h3 class="title margin-top-clear">学习权限</h3>
+                  <hr>
+ <a href="/mc/planCourse/addAndSkip/ea3a92dd409c51ff0140d7888abe1ac1" class="btn btn-success btn-lg" style="width: 100%;" type="button"><i class="icon-video"></i> 开始学习该课程</a> 
+                  <p><i class="icon-clock"></i> 学习有效期至 
+                    2017-12-05
+                     </p>
+                  <ul class="list">
+                    支持全球支付，含微信支付 <i class="fa fa-cc-visa pl-5"></i><i class="fa fa-cc-amex pl-5"></i><i class="fa fa-cc-mastercard pl-5"></i><i class="fa fa-cc-paypal pl-5"></i>
+                  </ul>
+                </div>
+                <div class="block clearfix">
+                  <h3 class="title margin-top-clear">讲师信息                     <button class="btn btn-light-gray btn-sm att pull-right" value="ea3a92dd409c51ff0141064cae5e330e" style="margin-top:-5px;">关注TA</button>
+                    </h3>
+                  <hr>
+                  <div class="testimonial-image"> <img class="img-circle" src="/upload/avatar/big_ea3a92dd409c51ff0141064cae5e330e.jpg" alt="桂达" title="桂达"> </div>
+                  <div class="testimonial-body">
+                    <p class="testimonial-info-2"> <a href="/m/apf_桂老师">
+                      桂达
+                      </a> </p>
+                    <div class="testimonial-info-1"><i class="fa fa-map-marker pr-10"></i> 
+                      美国
+                       </div>
+                    <p class="small"> 关注 (
+                      13
+                      )  |  粉丝 (
+                      21
+                      ) </p>
+                  </div>
+                  <p>
+                    CFA三级通过，西弗吉尼亚大学MBA，金融硕士。现担任纽约某地产投资开发公司分析师，负责地产以及地产私募基金投资决策分析，参与项目总投资额超过3亿美元。主要负责CFA Space一级部分FRA，Alternative Investment, Derivative, Portfolio，二级FRA<span style="line-height:14.4px;">讲解</span>。
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+  <div class="section gray-bg clearfix">
+    <div class="container">
+      <div class="call-to-action">
+        <div class="row">
+          <div class="col-md-8">
+            <h1 class="title text-center">CFA一级会员特权服务</h1>
+            <p>学习更全面 | 价格更优惠 | 购买更便捷 | Fail 可延期</p>
+          </div>
+          <div class="col-md-4">
+            <div class="text-center"> <a href="/vip" class="btn btn-default btn-lg" target="_blank"> 申请CFA一级会员特权服务 </a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section clearfix">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>学习该课程的还学习了</h2>
+          <div class="separator-2"></div>
+          <div class="owl-carousel carousel"> 
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201611/0b18770ecb904a6cac6e7caf8cdee323.jpg" alt="2017年CFA一级系列课程：Portfolio Management"> <a href="/course/detail/ea3a92dd414db3160141539acad90582" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                23
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ea3a92dd414db3160141539acad90582">
+                2017年CFA一级系列课程：Portfolio Management
+                </a> </span> <a href="/course/detail/ea3a92dd414db3160141539acad90582" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                25.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                48882
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                36403
+                </span> </span> </span> </a> <a href="/m/leogu" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b44e602199014e65394c04005d.jpg" alt="顾佳浩"> <span class="r"> <span class="ins-name ellipsis">
+                顾佳浩
+                </span> <span class="ins-job-title ellipsis">
+                CFA持证人，MBA、金融硕士，上海交通大学工学学士
+                </span> </span> </span> </a> </div>
+            </div>
+            
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201611/7c183a8f9f654218b85b5d46565f1004.jpg" alt="2017年CFA一级系列课程：Derivative Investments"> <a href="/course/detail/ea3a92dd405e6fd101408f0c532112ae" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                18
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ea3a92dd405e6fd101408f0c532112ae">
+                2017年CFA一级系列课程：Derivative Investments
+                </a> </span> <a href="/course/detail/ea3a92dd405e6fd101408f0c532112ae" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                25.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                55727
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                36464
+                </span> </span> </span> </a> <a href="/m/leogu" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b44e602199014e65394c04005d.jpg" alt="顾佳浩"> <span class="r"> <span class="ins-name ellipsis">
+                顾佳浩
+                </span> <span class="ins-job-title ellipsis">
+                CFA持证人，MBA、金融硕士，上海交通大学工学学士
+                </span> </span> </span> </a> </div>
+            </div>
+            
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201601/4c1514e70c3241a19cc7e0ad8379dc2a.jpg" alt="2017年CFA一级系列课程：Quantitative Methods"> <a href="/course/detail/ff8080815260bbb2015265469e640046" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                27
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ff8080815260bbb2015265469e640046">
+                2017年CFA一级系列课程：Quantitative Methods
+                </a> </span> <a href="/course/detail/ff8080815260bbb2015265469e640046" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                15.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                32174
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                25541
+                </span> </span> </span> </a> <a href="/m/leogu" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b44e602199014e65394c04005d.jpg" alt="顾佳浩"> <span class="r"> <span class="ins-name ellipsis">
+                顾佳浩
+                </span> <span class="ins-job-title ellipsis">
+                CFA持证人，MBA、金融硕士，上海交通大学工学学士
+                </span> </span> </span> </a> </div>
+            </div>
+            
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201601/f48190892aa243f4a5bdcdcd640e50e0.jpg" alt="2017年CFA一级系列课程：Economics"> <a href="/course/detail/ff8080815260bbb20152654370970045" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                35
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ff8080815260bbb20152654370970045">
+                2017年CFA一级系列课程：Economics
+                </a> </span> <a href="/course/detail/ff8080815260bbb20152654370970045" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                15.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                29568
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                25373
+                </span> </span> </span> </a> <a href="/m/leogu" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b44e602199014e65394c04005d.jpg" alt="顾佳浩"> <span class="r"> <span class="ins-name ellipsis">
+                顾佳浩
+                </span> <span class="ins-job-title ellipsis">
+                CFA持证人，MBA、金融硕士，上海交通大学工学学士
+                </span> </span> </span> </a> </div>
+            </div>
+            
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201704/2da36077ddaf4bd3b570ea0f9a0ec1f4.jpg" alt="2017 CFA一级考试：模考预测题 （240道题，2套模考）"> <a href="/course/detail/ea3a9cb35b9837c7015b9f537be10183" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                40
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ea3a9cb35b9837c7015b9f537be10183">
+                2017 CFA一级考试：模考预测题 （240道题，2套模考）
+                </a> </span> <a href="/course/detail/ea3a9cb35b9837c7015b9f537be10183" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                60.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                2331
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                1373
+                </span> </span> </span> </a> <a href="/m/leogu" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b44e602199014e65394c04005d.jpg" alt="顾佳浩"> <span class="r"> <span class="ins-name ellipsis">
+                顾佳浩
+                </span> <span class="ins-job-title ellipsis">
+                CFA持证人，MBA、金融硕士，上海交通大学工学学士
+                </span> </span> </span> </a> </div>
+            </div>
+            
+            <div class="course-item">
+              <div class="overlay-container"> <img src="/upload/201503/3696de5144ab436597347a87f6f53d69.jpg" alt="CFA一级《CFA精选试题》精讲"> <a href="/course/detail/ea3af1b449915333014992be42290081" class="overlay small"> <i class="fa fa-play-circle"></i> <span>立即学习</span> </a> <span class="badge default-bg">更新
+                84
+                节课</span> </div>
+              <div class="course-item-body clearfix"> <span class="title"> <a href="/course/detail/ea3af1b449915333014992be42290081">
+                CFA一级《CFA精选试题》精讲
+                </a> </span> <a href="/course/detail/ea3af1b449915333014992be42290081" class="mask"> <span class="details"> <span class="price-col"> <span class="green price">$
+                99.00
+                </span> </span> <span class="reviews-col">  <span class="count"><i class="fa fa-youtube-play"></i>
+                33766
+                </span> </span> <span class="users-col">  <span class="count"><i class="icon-users"></i>
+                34158
+                </span> </span> </span> </a> <a href="/m/apf" class="mask"> <span class="instructors"> <img class="ins-thumb" src="/upload/avatar/small_ea3af1b449915333014992bbf57e007f.jpg" alt="APF Instructor team"> <span class="r"> <span class="ins-name ellipsis">
+                APF Instructor team
+                </span> <span class="ins-job-title ellipsis">
+                专业金融学院 Academy of Professional Finance（APF）
+                </span> </span> </span> </a> </div>
+            </div>
+             </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section gray-bg text-muted footer-top clearfix">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="owl-carousel clients">
+          <div class="client"> <a href="/app"><img src="/static/default/images/client-1.png" alt="CFAspace APP"></a> </div>
+          <div class="client"> <a href="/app"><img src="/static/default/images/client-2.png" alt="CFAspace APP"></a> </div>
+          <div class="client"> <a href="/app"><img src="/static/default/images/client-3.png" alt="CFAspace APP"></a> </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <blockquote class="inline">
+          <p class="margin-clear">移动客户端：iPhone版 iPad版 安卓版，<br>
+            助你随时随地、离线学习！</p>
+          <footer><cite title="Source Title">CFAspace APP </cite></footer>
+        </blockquote>
+      </div>
+    </div>
+  </div>
+</div>
+<footer id="footer">
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="footer-content">
+            <div class="logo-footer"><img id="logo-footer" src="/static/default/images/logo_red_footer.png" alt="CFAspace"></div>
+            <p>以CFA为主导，打造中国CFA金融教育学习平台 ，利用互联网和移动互联网的优势，为更多的CFA考生及金融从业者提供高品质、专业的金融课程。 <a href="/aboutus" class="link"><span>Read More</span></a></p>
+            <p><i class="fa fa-phone pr-10"></i>400 887 5127 &nbsp;&nbsp; <i class="fa fa-mobile pr-10"></i>130 1183 2532（24H） &nbsp;&nbsp; <i class="fa fa-map-marker pr-10"></i> China , U.S.A. </p>
+            <p><i class="fa fa-envelope-o pr-10"></i> info@cfaspace.com  &nbsp;&nbsp; <i class="fa fa-weixin pr-10"></i>微信咨询：CFAspace-APF</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-2 col-lg-offset-1">
+          <div class="footer-content">
+            <h2>帮助</h2>
+            <nav>
+              <ul class="nav nav-pills nav-stacked">
+                <li><a href="/help">如何学？</a></li>
+                <li class="active"><a href="/help">如何教？</a></li>
+                <li><a href="/help">如何成为讲师？</a></li>
+                <li><a href="/help">讲师手册</a></li>
+                <li><a href="/help">如何成为会员？</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3">
+          <div class="footer-content">
+            <h2>Search</h2>
+            <form role="search" class="margin-bottom-clear" action="/search" method="get">
+              <div class="form-group has-feedback">
+                <label class="sr-only" for="subscribe">Seach</label>
+                <input name="key" type="text" class="form-control" placeholder="Search for Courses">
+                <i class="fa fa-search form-control-feedback"></i>
+                <button type="submit" class="btn btn-white btn-sm">Search</button>
+              </div>
+            </form>
+            <div class="box small"><i class="fa fa-cc-paypal"></i></div>
+            <div class="box small"><i class="fa fa-cc-visa"></i></div>
+            <div class="box small"><i class="fa fa-cc-mastercard"></i></div>
+            <div class="box small"><i class="fa fa-cc-discover"></i></div>
+          </div>
+        </div>
+      </div>
+      <p>免责声明:</p><small><P> CFA Institute does not endorse, promote, or warrant the accuracy or quality of the products or services offered by CFAspace. CFA Institute, CFA<sup>®</sup>, and Chartered Financial Analyst<sup>®</sup> are trademarks owned by CFA Institute.</p>
+      </small>
+    </div>
+  </div>
+  <div class="subfooter">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <p>Copyright © 2004-2017 <a target="_blank" href="http://www.cfaspace.com">CFAspace.com</a>. All Rights Reserved. <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258749969'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1258749969' type='text/javascript'%3E%3C/script%3E"));</script></p>
+        </div>
+        <div class="col-md-6">
+          <nav class="navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse-2">
+              <ul class="nav navbar-nav">
+                <li><a href="/aboutus">关于我们</a></li>
+                <li><a href="/contactus">联系我们</a></li>
+                <li><a href="/agreement">使用条款</a></li>
+                <li><a href="/laws">法律声明</a></li>
+                <li><a href="/feedback">意见反馈</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+<!-- JavaScript files placed at the end of the document so the pages load faster
+<!-- Jquery and Bootstap core js files -->
+<script type="text/javascript" src="/static/default/plugins/jquery.min.js"></script>
+<script type="text/javascript" src="/static/default/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Modernizr javascript -->
+<script type="text/javascript" src="/static/default/plugins/modernizr.js"></script>
+
+<!-- jQuery REVOLUTION Slider  -->
+<script type="text/javascript" src="/static/default/plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="/static/default/plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+<!-- Isotope javascript -->
+<script type="text/javascript" src="/static/default/plugins/isotope/isotope.pkgd.min.js"></script>
+
+<!-- Owl carousel javascript -->
+<script type="text/javascript" src="/static/default/plugins/owl-carousel/owl.carousel.js"></script>
+
+<!-- Magnific Popup javascript -->
+<script type="text/javascript" src="/static/default/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<!-- Appear javascript -->
+<script type="text/javascript" src="/static/default/plugins/jquery.appear.js"></script>
+
+<!-- Count To javascript -->
+<script type="text/javascript" src="/static/default/plugins/jquery.countTo.js"></script>
+
+<!-- Parallax javascript -->
+<script src="/static/default/plugins/jquery.parallax-1.1.3.js"></script>
+
+<!-- Contact form -->
+<script src="/static/default/plugins/jquery.validate.js"></script>
+
+<!-- Initialization of Plugins -->
+<script type="text/javascript" src="/static/default/js/template.js"></script>
+
+<!-- Custom Scripts -->
+<script type="text/javascript" src="/static/default/js/custom.js"></script>
+
+<!-- Count Down javascript -->
+<script type="text/javascript" src="/static/default/plugins/jquery.countdown/jquery.plugin.js"></script>
+<script type="text/javascript" src="/static/default/plugins/jquery.countdown/jquery.countdown.js"></script>
+<script type="text/javascript" src="/static/default/js/coming.soon.config.js"></script>
+<script type="text/javascript" src="/static/default/js/jquery.ajaxform.js"></script>
+
+<!-- validate -->
+<script src="/static/mc/js/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/static/mc/js/jquery.validate.methods.js" type="text/javascript"></script>
+<script src="/static/mc/js/jquery.validate.messages_cn.js" type="text/javascript"></script>
+<!-- end validate -->
+<script src="/static/token.js" type="text/javascript"></script>
+<!-- Color Switcher Start
+<script type="text/javascript" src="/static/default/js/switcher.js"></script>
+<div class="style-switcher closed">
+  <div class="header"> <a class="trigger" href="#" title="课程导航"><i class="icon-menu"></i></a>
+    <h2>课程导航</h2>
+  </div>
+  <div class="clearfix body">
+    <h3>金融类</h3>
+    <ul class="layoutChange">
+      <li><a href="/course/CFA1"><i class="icon-right-open"></i>CFA一级</a></li>
+      <li><a href="/course/CFA2"><i class="icon-right-open"></i>CFA二级</a></li>
+      <li><a href="/course/CFA3"><i class="icon-right-open"></i>CFA三级</a></li>
+      <li><a href="http://www.ppclass.com/course/FRM1" target="_blank"><i class="icon-right-open"></i>FRM一级</a></li>
+      <li><a href="http://www.ppclass.com/course/FRM1" target="_blank"><i class="icon-right-open"></i>FRM二级</a></li>
+      <li><a href="/course/Professional_Finance"><i class="icon-right-open"></i>专业金融</a></li>
+    </ul>
+    <hr>
+    <h3>财务类（免费开放）</h3>
+    <ul class="layoutChange">
+      <li><a href="http://www.ppclass.com/course/ACCA" target="_blank"><i class="icon-right-open"></i>ACCA</a></li>
+      <li><a href="http://www.ppclass.com/course/CMA" target="_blank"><i class="icon-right-open"></i>CMA</a></li>
+      <li><a href="http://www.ppclass.com/course/CPA" target="_blank"><i class="icon-right-open"></i>CPA</a></li>
+      <li><a href="http://www.ppclass.com/course/AICPA" target="_blank"><i class="icon-right-open"></i>AICPA</a></li>
+    </ul>
+    <hr>
+    <h3>从业资格（免费开放）</h3>
+    <ul class="layoutChange">
+      <li> <a href="http://www.ppclass.com/course/kuaiji" target="_blank"> <i class="icon-right-open"></i>会计从业</a> </li>
+      <li> <a href="http://www.ppclass.com/course/zhengquan" target="_blank"> <i class="icon-right-open"></i>证券从业</a> </li>
+      <li> <a href="http://www.ppclass.com/course/Bank" target="_blank"> <i class="icon-right-open"></i>银行从业</a> </li>
+      <li> <a href="http://www.ppclass.com/course/jijin" target="_blank"> <i class="icon-right-open"></i>基金从业</a> </li>
+    </ul>
+    <hr>
+    <h3>公开课</h3>
+    <ul class="layoutChange">
+      <li> <a href="/course/Foreign_Exchange"> <i class="icon-right-open"></i>外汇交易</a> </li>
+      <li> <a href="/course/EF"> <i class="icon-right-open"></i>经济金融</a> </li>
+      <li> <a href="/course/Investment"> <i class="icon-right-open"></i>投资理财</a> </li>
+      <li> <a href="/course/count"> <i class="icon-right-open"></i>统计分析</a> </li>
+    </ul>
+  </div>
+</div>
+<!-- Color Switcher End -->
+<script type="text/javascript">
+	function getCommentHtml(pageNumber){
+		var $commentHtml = $("#commentHtml");
+		$.ajax({
+		url: "/comment/lesson/ea3af1b448ec861e0148ee3c5e87005b?pageNumber="+pageNumber,
+		async: false,
+		dataType: "html",
+		success: function(data) {
+			$commentHtml.html(data);
+		}
+		});
+	}
+	$().ready( function() {
+		getCommentHtml(1);
+	});
+</script> 
+<script type="text/javascript">
+	$('#saveNoteBtn').click(function(e) {
+		var noteTextarea = $("#noteTextarea").val();
+		var $isPublic= $("#isPublic").val();
+		var isp;
+		if(isPublic.checked){
+         	isp=true;
+       	}else{
+			isp=false;
+		}
+		$.ajax({
+			url: "/mc/noteLesson/save",
+			dataType: "json",
+			type: 'post',
+			data: {
+				note: noteTextarea,
+				isPublic: isp,
+				lessonId:"ea3af1b448ec861e0148ee3c5e87005b"
+			},
+			contentType: "application/x-www-form-urlencoded; charset=utf-8",
+			success: function(data) {
+				if (data.status == "success") {
+					$("#noteSaveTip").html("保存成功!").fadeIn().delay(2000).fadeOut();
+				}
+			}
+		});
+	});
+</script> 
+<script type="text/javascript">
+	$('#saveCommentBtn').click(function(e) {
+		var commentTextarea = $("#commentTextarea").val();
+		$.ajax({
+			url: "/mc/comment/ajaxSave",
+			dataType: "json",
+			type: 'post',
+			data: {
+				content: commentTextarea,
+				typeId:"ea3af1b448ec861e0148ee3c5e87005b",
+				commentType:"lesson"
+			},
+			contentType: "application/x-www-form-urlencoded; charset=utf-8",
+			success: function(data) {
+				if (data.status == "success") {
+					$("#commentSaveTip").html("提问成功!").fadeIn().delay(2000).fadeOut();
+					$("#commentTextarea").val("");
+					getCommentHtml(1);
+				} else {
+					$("#commentSaveTip").html("参数错误!").fadeIn().delay(2000).fadeOut();
+				}
+			}
+		});
+	});
+</script> 
+<script type="text/javascript">
+	 $().ready( function() {
+		var $att = $(".att");
+		$att.bind('click',function(){
+			var $this = $(this);
+			$.ajax({
+				url: "/mc/friend/att",
+				data: "id="+$this.val(),
+				async: false,
+				dataType: "json",
+				beforeSend: function(data) {
+					$this.html('请稍等...');
+				},
+				success: function(data) {
+					$this.html(data.message);
+					$this.attr("disabled",true); 
+				}
+			});
+			return false;
+		});
+		var $attDelete = $(".attDelete");
+		$attDelete.bind('click',function(){
+			var $this = $(this);
+			$.ajax({
+				url: "/mc/friend/attDelete",
+				data: "id="+$this.val(),
+				async: false,
+				dataType: "json",
+				beforeSend: function(data) {
+					$this.html('请稍等...');
+				},
+				success: function(data) {
+					$this.html(data.message);
+					$this.attr("disabled",true); 
+				}
+			});
+			return false;
+		});
+	});
+</script> 
+<script type="text/javascript">
+	window.setInterval(checkLogin, 60000);
+	function checkLogin() {
+		$.ajax({
+			url: "/checkLogin?id=ea3af1b448ec861e0148ee3c5e87005b",
+			async: false,
+			dataType: "text",
+			success: function(data) {
+				if(data=="false"){
+					alert("您的账号在其它终端登录,请确保账户安全,建议修改密码!");
+					window.location.href="/login"; 
+				}
+			}
+		});
+	}
+</script> 
+<!-- Modal start-->
+<div class="modal fade" id="payModal" tabindex="-1" role="dialog" aria-labelledby="payModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header"> <a class="close payModalClose" data-dismiss="modal">×</a>
+        <h4 class="modal-title" id="payModalTitle"><strong>购买课程</strong></h4>
+      </div>
+      <form action="/payment/courseSubmit" method="post" target="_blank">
+        <input id="courseId" name="courseId" type="hidden" value="" />
+        <div class="modal-body">
+          <div class="tabs-style-2">
+            <ul class="nav nav-tabs">
+              <li class="active"><a href="#tab1" data-toggle="tab">人民币支付 ￥<span id="payRmb"></span></a></li>
+              <li><a href="#tab2" data-toggle="tab">美元支付 $<span id="payUsd"></span>( 支持全球币种 )</a></li>
+            </ul>
+            <div class="tab-content">
+              <div class="tab-pane active" id="tab1">
+                <ul>
+                  <div class="radio"> 
+                    <label> <input name="paymentConfigId" type="radio" value="1" checked> <img alt="微信支付" title="微信支付" src="/static/payment/wx.png" /> </label>
+                    
+                    <label> <input name="paymentConfigId" type="radio" value="5f8588fb3b5f0845013b5f4fe4890013" > <img alt="快钱支付" title="快钱支付" src="/static/payment/99bill.gif" /> </label>
+                     </div>
+                </ul>
+              </div>
+              <div class="tab-pane" id="tab2">
+                <ul>
+                  <div class="radio">
+                    <label>
+                      <input name="paymentConfigId" type="radio" value="paypal">
+                      <img alt="Paypal" title="Paypal" src="/static/default/images/paypal_e.gif"></label>
+                  </div>
+                </ul>
+              </div>
+            </div>
+          <h3>支付方式说明：</h3>
+            <ul class="">
+                  <li> 微信支付：扫描微信二维码完成支付；</li>
+                  <li> 支付宝支付：全球领先的独立第三方支付平台；</li>
+                  <li> 快钱支付：支持中国大陆信用卡和储蓄卡；</li>
+                  <li> PayPal支付：<br>有PayPal账户，选择“使用我的PayPal账户付款”；<br>无Paypal账户，选择“我还没有PayPal账户”，支持非中国大陆外币信用卡。</li>
+            </ul>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <input type="submit" id="paySubmit" class="btn btn-primary" value="立即支付" />
+          <button class="btn btn-dark payModalClose" data-dismiss="modal">关闭</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="payTipModal" tabindex="-1" role="dialog" aria-labelledby="payTipModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header"> <a class="close payTipModalClose" data-dismiss="modal">×</a>
+        <h4 class="modal-title" id="payTipModalTitle"><strong>支付确认</strong></h4>
+      </div>
+      <div class="modal-body" style="text-align:left;">
+        <h3>提醒：</h3>
+        <li>请在新打开的页面中完成付款</li>
+        <li>付款完成前就不要关闭此窗口</li>
+        <li>付款完成后请根据您的情况点击下面按钮</li>
+      </div>
+      <div class="modal-footer">
+        <button class="payResultSuccessBtn btn btn-success">支付成功</button>
+        <button class="payResultFailedBtn btn btn-danger">支付失败</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+    $().ready(function() {
+        $('.payBtn').click(function() {
+			var $this = $(this);
+			$("#payUsd").html($this.attr("usd"));
+			$("#payRmb").html($this.attr("rmb"));
+			$("#courseId").val($this.attr("courseId"));
+            $('#payModal').modal();
+			return false;
+        });
+		$('.payModalClose').click(function() {
+			window.location.reload();
+        });
+    })
+	
+	$("#paySubmit").bind('click',function(){
+		$('#payModal').modal('hide');
+		$('#payTipModal').modal();
+	});
+	
+	$('.payResultSuccessBtn').click(function() {
+		window.location.href="/mc/order/list/buy";
+	});
+	
+	$('.payResultFailedBtn').click(function() {
+		window.location.reload();
+	});
+	
+</script> 
+<!-- Modal end-->
+<script type="text/javascript">
+$("#videojs").bind("contextmenu",function(){
+			    return false;
+			});
+</script> 
+
+</body>
+</html>

@@ -15,6 +15,7 @@ request_header = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11
                   'Accept': 'text/html;q=0.9,*/*;q=0.8',
                   'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
                   'Accept-Encoding': 'gzip',
+                  'Cookie':r'UM_distinctid=15bc715d39f800-0da9cd36b-4f4b012e-232800-15bc715d3a05ce; bdshare_firstime=1493694726699; OUTFOX_SEARCH_USER_ID_NCOO=1114402987.9810658; Hm_lvt_6d761014fc10be3a449858080fdd278a=1493693750,1493782878,1493979064,1494807336; JSESSIONID=BF208A6350A03B58C3B6E671C84160A3; memberId=ea3a9cb35bbb312c015bbd80b9e10059; loginDate=20170517111442; CNZZDATA1258749969=471695409-1493690447-http%253A%252F%252Fbbs.cfaspace.com%252F%7C1495174552',
                   'Connection': 'close',
                   'Referer': None,
                   }
