@@ -85,7 +85,7 @@ def bs_obj(text):
 
 def downloader(url,dst,file_name):
     dst_path = os.path.join(dst,file_name)
-    with closing(requests.get(url,stream= True)) as response:
+    with closing(requests.get(url,stream= True, headers = request_header)) as response:
         chunk_size = 1024
         content_size = int(response.headers['content-length'])
         if os.path.exists(dst_path) and os.path.getsize(dst_path) == content_size:
@@ -95,6 +95,7 @@ def downloader(url,dst,file_name):
             with open(dst_path,'wb') as f:
                 for data in response.iter_content(chunk_size=chunk_size):
                     f.write(data)
+                    f.flush()
                     progress.refresh(count = len(data))
 
 
