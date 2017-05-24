@@ -42,7 +42,7 @@ if __name__ == "__main__":
     if not os.path.exists(doc_path):
         os.mkdir(doc_path)
 
-    src = r'http://www.cfaspace.com/course/detail/ea3a92dd405e6fd101408f0c532112ae'
+    src = r'http://www.cfaspace.com/course/detail/ea3af1b449915333014992be42290081'
     text = bs_parser.html_text(src)
     #with open('html_test','w') as f:
     #    f.write(text)
